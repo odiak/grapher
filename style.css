@@ -1,0 +1,18 @@
+canvas {
+    border: 1px solid #000;
+    width: 500px;
+}
+
+input[type=text] {
+    padding: 4px;
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #000;
+    width: 502px;
+    outline: none;
+}
+
+input[type=text]:focus {
+    background: #f9f9f9;
+}
